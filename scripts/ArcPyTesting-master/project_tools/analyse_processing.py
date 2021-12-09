@@ -113,7 +113,9 @@ def add_outer_columns_rows(input_dataframe):
     df_adjusted.loc['Total diagonal (ha)', 'Total diagonal (ha)'] = total_diagonal
 
     df_adjusted.loc['User Accuracy (%)'] = diagonal / total_column * 100
-    df_adjusted.loc[:, 'Classification Accuracy (%)'] = diagonal / total_row * 100
+    
+    # df_adjusted.loc[:, 'Classification Accuracy (%)'] = diagonal / total_row * 100
+    df_adjusted.loc[:, 'Producer Accuracy (%)'] = diagonal / total_row * 100
 
     df_adjusted.loc['Total Accuracy (%)', 'Total Accuracy (%)'] = total_percentage * 100
     return df_adjusted

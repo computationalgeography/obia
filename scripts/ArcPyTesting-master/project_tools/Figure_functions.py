@@ -84,6 +84,76 @@ def plot_error_matrix(input_dataframe, col_scale=(0, 100), added_columns=False,
     plt.tight_layout()
 
     if not added_columns:
+
+        ax.set(xlabel='klasse RWS', ylabel='klasse UU')
+
+
+        pass
+    else:
+        # ax.add_patch(Rectangle((3, 4), 1, 1, fill=False, edgecolor='blue', lw=3))
+
+        # ax.set(xlabel='Klasse RWS', ylabel='Klasse UU added context')
+
+        ax.set(xlabel='klasse RWS', ylabel='klasse UU')
+
+        columns = list(input_dataframe.columns)[:-4]
+        n_columns = len(columns)
+        ax.add_patch(Rectangle((0, 0), n_columns, n_columns, fill=False, edgecolor='grey', lw=1))
+
+        row = 0
+        column = 0
+        for col in columns:
+            ax.add_patch(Rectangle((column, row), 1, 1,
+                         lw=1.5, fill=True, color='green', alpha=0.2))
+            row += 1
+            column += 1
+
+        figure_name = "{}_{}".format(figure_name, 'adjusted')
+
+    # SAVEPLOT
+    if not save_plot:
+        return
+    elif safe_fig_folder is None:
+        print('No figure path selected. Please input a figure folder path')
+    else:
+        fig_name = figure_name + '.png'
+        fig_path = os.path.join(safe_fig_folder, fig_name)
+        fig = g.get_figure()
+        fig.savefig(fname = fig_path, dpi = 300)
+
+
+def plot_error_matrix_old(input_dataframe, col_scale=(0, 100), added_columns=False,
+                      save_plot=False, safe_fig_folder=None,
+                      figure_name='ErrorMatrix_Oppervlakte'):
+    """
+
+    :param input_dataframe:
+    :param col_scale:
+    :param added_columns:
+    :param save_plot:
+    :param safe_fig_folder:
+    :param figure_name:
+    :return:
+    """
+    col_scale_min, col_scale_max = col_scale
+    # plot
+    sns.set(font_scale=0.85)
+    f, ax = plt.subplots(figsize=(9, 4))
+    g = sns.heatmap(input_dataframe,
+                    annot=True,
+                    fmt='.1f',
+                    linewidths=.5,
+                    ax=ax,
+                    cmap="Greens",
+                    cbar=False,
+                    vmin=col_scale_min,
+                    vmax=col_scale_max)
+    ax.xaxis.set_ticks_position('top')
+    plt.xticks(rotation=30, ha='left')
+    plt.yticks(rotation=0)
+    plt.tight_layout()
+
+    if not added_columns:
         pass
     else:
         # ax.add_patch(Rectangle((3, 4), 1, 1, fill=False, edgecolor='blue', lw=3))
