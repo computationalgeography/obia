@@ -1,0 +1,1263 @@
+<VRTDataset rasterXSize="224000" rasterYSize="80000">
+  <GeoTransform>  2.6000000000000000e+04,  2.5000000000000000e-01,  0.0000000000000000e+00,  3.9000000000000000e+05,  0.0000000000000000e+00, -2.5000000000000000e-01</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">135.89729019063</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">102.06824156277</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <ColorInterp>Red</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.1275</HistMin>
+        <HistMax>255.1275</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>3197159|0|0|0|9221|0|0|0|14294|0|0|0|10906|0|0|0|9854|0|0|0|12112|0|0|0|17423|0|0|17355|0|0|0|11068|0|0|0|9160|0|0|0|10090|0|0|0|12395|0|0|0|17904|0|0|0|31553|0|0|0|31405|0|0|0|30325|0|0|0|25227|0|0|0|24276|0|0|0|21333|0|0|25121|0|0|0|40661|0|0|0|53123|0|0|0|56655|0|0|0|54070|0|0|0|55026|0|0|0|55889|0|0|0|49944|0|0|0|40310|0|0|0|47075|0|0|0|54595|0|0|0|54993|0|0|57382|0|0|0|60464|0|0|0|72025|0|0|0|82135|0|0|0|93070|0|0|0|108096|0|0|0|114924|0|0|0|113713|0|0|0|109858|0|0|0|100879|0|0|0|93586|0|0|0|93627|0|0|98033|0|0|0|102431|0|0|0|101611|0|0|0|95413|0|0|0|92321|0|0|0|92361|0|0|0|91994|0|0|0|89305|0|0|0|83072|0|0|0|71635|0|0|0|62311|0|0|0|54972|0|0|49555|0|0|0|44911|0|0|0|41226|0|0|0|37201|0|0|0|34043|0|0|0|31125|0|0|0|27171|0|0|0|24286|0|0|0|21083|0|0|0|17755|0|0|0|15241|0|0|0|12646|0|0|10901|0|0|0|9401|0|0|0|8203|0|0|0|7473|0|0|0|7011|0|0|0|6541|0|0|0|6462|0|0|0|6145|0|0|0|6111|0|0|0|5999|0|0|0|6275|0|0|0|7041|0|0|8132|0|0|0|8736|0|0|0|9012|0|0|0|8916|0|0|0|8655|0|0|0|8197|0|0|0|8181|0|0|0|7837|0|0|0|8554|0|0|0|8994|0|0|0|9355|0|0|0|9295|0|0|0|9346|0|0|9467|0|0|0|9899|0|0|0|10402|0|0|0|11173|0|0|0|11883|0|0|0|12644|0|0|0|13328|0|0|0|13948|0|0|0|14924|0|0|0|15799|0|0|0|16882|0|0|0|17109|0|0|17343|0|0|0|17543|0|0|0|17900|0|0|0|18686|0|0|0|19535|0|0|0|20881|0|0|0|22685|0|0|0|23983|0|0|0|25355|0|0|0|26177|0|0|0|26741|0|0|0|27352|0|0|28464|0|0|0|31261|0|0|0|34232|0|0|0|35400|0|0|0|34944|0|0|0|35598|0|0|0|37368|0|0|0|39428|0|0|0|40095|0|0|0|41644|0|0|0|42070|0|0|0|44161|0|0|46705|0|0|0|48335|0|0|0|48596|0|0|0|48419|0|0|0|46922|0|0|0|46558|0|0|0|46380|0|0|0|48485|0|0|0|50697|0|0|0|52273|0|0|0|52329|0|0|0|51059|0|0|49827|0|0|0|49625|0|0|0|49712|0|0|0|49644|0|0|0|49925|0|0|0|49064|0|0|0|47168|0|0|0|44524|0|0|0|44385|0|0|0|45326|0|0|0|46927|0|0|0|48628|0|0|48206|0|0|0|47153|0|0|0|46157|0|0|0|45574|0|0|0|44528|0|0|0|43363|0|0|0|42279|0|0|0|41440|0|0|0|41282|0|0|0|39690|0|0|0|38330|0|0|0|37503|0|0|37744|0|0|0|38009|0|0|0|38131|0|0|0|38195|0|0|0|38596|0|0|0|39218|0|0|0|39142|0|0|0|39132|0|0|0|39719|0|0|0|40813|0|0|0|42291|0|0|0|42739|0|0|0|43037|0|0|42781|0|0|0|41777|0|0|0|42029|0|0|0|41594|0|0|0|41296|0|0|0|41229|0|0|0|41545|0|0|0|41198|0|0|0|41220|0|0|0|41284|0|0|0|41914|0|0|0|42746|0|0|43399|0|0|0|43962|0|0|0|44291|0|0|0|44649|0|0|0|44728|0|0|0|45325|0|0|0|44373|0|0|0|43636|0|0|0|43236|0|0|0|41687|0|0|0|41415|0|0|0|41144|0|0|40258|0|0|0|39437|0|0|0|38435|0|0|0|37159|0|0|0|35464|0|0|0|35196|0|0|0|34678|0|0|0|33975|0|0|0|32833|0|0|0|32430|0|0|0|31393|0|0|0|30972|0|0|30140|0|0|0|28964|0|0|0|28613|0|0|0|28148|0|0|0|27598|0|0|0|27269|0|0|0|26891|0|0|0|25981|0|0|0|25217|0|0|0|24605|0|0|0|23375|0|0|0|22851|0|0|21942|0|0|0|21072|0|0|0|20694|0|0|0|19900|0|0|0|18966|0|0|0|17273|0|0|0|15959|0|0|0|14292|0|0|0|12850|0|0|0|10917|0|0|0|9473|0|0|0|8285|0|0|7028|0|0|0|5993|0|0|0|5176|0|0|0|4490|0|0|0|3805|0|0|0|3225|0|0|0|2837|0|0|0|2480|0|0|0|2161|0|0|0|1850|0|0|0|1538|0|0|0|1263|0|0|1054|0|0|0|772|0|0|0|657|0|0|0|625|0|0|0|726|0|0|0|1230|0|0|0|5298331</HistCounts>
+      </HistItem>
+    </Histograms>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_386_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_382_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_378_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_078_370_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="208000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_078_374_2018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="208000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">136.6822591379</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">92.930711418666</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <ColorInterp>Green</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.1275</HistMin>
+        <HistMax>255.1275</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>3194880|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|13|0|0|0|63|0|0|0|243|0|0|580|0|0|0|860|0|0|0|1075|0|0|0|943|0|0|0|931|0|0|0|879|0|0|0|974|0|0|0|1064|0|0|0|1165|0|0|0|1301|0|0|0|1307|0|0|0|1275|0|0|1354|0|0|0|1767|0|0|0|3368|0|0|0|4111|0|0|0|3237|0|0|0|3184|0|0|0|3414|0|0|0|3841|0|0|0|4301|0|0|0|4929|0|0|0|5506|0|0|0|5697|0|0|5968|0|0|0|6251|0|0|0|6285|0|0|0|6710|0|0|0|7562|0|0|0|9133|0|0|0|12608|0|0|0|22057|0|0|0|25615|0|0|0|17895|0|0|0|13518|0|0|0|13668|0|0|16595|0|0|0|16988|0|0|0|14859|0|0|0|13914|0|0|0|12995|0|0|0|12634|0|0|0|12907|0|0|0|14205|0|0|0|17753|0|0|0|22854|0|0|0|24221|0|0|0|19743|0|0|16508|0|0|0|16041|0|0|0|16461|0|0|0|17317|0|0|0|18732|0|0|0|20155|0|0|0|21388|0|0|0|21813|0|0|0|22371|0|0|0|22820|0|0|0|24056|0|0|0|25282|0|0|26969|0|0|0|29647|0|0|0|31166|0|0|0|32164|0|0|0|32027|0|0|0|34173|0|0|0|37624|0|0|0|40492|0|0|0|44311|0|0|0|48721|0|0|0|52051|0|0|0|54383|0|0|54049|0|0|0|53166|0|0|0|53411|0|0|0|53658|0|0|0|53665|0|0|0|53194|0|0|0|54276|0|0|0|57567|0|0|0|60505|0|0|0|63570|0|0|0|69327|0|0|0|74937|0|0|0|80290|0|0|84553|0|0|0|87199|0|0|0|88530|0|0|0|89781|0|0|0|91922|0|0|0|97023|0|0|0|102236|0|0|0|106202|0|0|0|109236|0|0|0|110815|0|0|0|109886|0|0|0|107113|0|0|107714|0|0|0|111751|0|0|0|119581|0|0|0|127874|0|0|0|136086|0|0|0|144979|0|0|0|153031|0|0|0|158712|0|0|0|159724|0|0|0|155346|0|0|0|146577|0|0|0|136163|0|0|125190|0|0|0|116156|0|0|0|107146|0|0|0|100603|0|0|0|95461|0|0|0|91174|0|0|0|88902|0|0|0|86712|0|0|0|85626|0|0|0|84970|0|0|0|83466|0|0|0|82964|0|0|82652|0|0|0|80813|0|0|0|79404|0|0|0|77551|0|0|0|75457|0|0|0|72466|0|0|0|69939|0|0|0|67244|0|0|0|65084|0|0|0|63923|0|0|0|63090|0|0|0|64071|0|0|64454|0|0|0|63932|0|0|0|62256|0|0|0|59769|0|0|0|58283|0|0|0|55540|0|0|0|53765|0|0|0|53129|0|0|0|54524|0|0|0|54585|0|0|0|53459|0|0|0|52835|0|0|52231|0|0|0|51264|0|0|0|49525|0|0|0|49138|0|0|0|48759|0|0|0|48789|0|0|0|46601|0|0|0|43777|0|0|0|40789|0|0|0|38730|0|0|0|37925|0|0|0|37256|0|0|36215|0|0|0|34025|0|0|0|31769|0|0|0|28712|0|0|0|27520|0|0|0|28277|0|0|0|28417|0|0|0|26841|0|0|0|24876|0|0|0|24086|0|0|0|22880|0|0|0|21798|0|0|0|19682|0|0|18186|0|0|0|17790|0|0|0|17786|0|0|0|17137|0|0|0|16411|0|0|0|15231|0|0|0|14051|0|0|0|13469|0|0|0|12629|0|0|0|11674|0|0|0|11147|0|0|0|10612|0|0|9907|0|0|0|9489|0|0|0|8578|0|0|0|7445|0|0|0|6677|0|0|0|6058|0|0|0|5340|0|0|0|4679|0|0|0|4234|0|0|0|3583|0|0|0|3376|0|0|0|3274|0|0|3099|0|0|0|2868|0|0|0|2969|0|0|0|2801|0|0|0|2793|0|0|0|2752|0|0|0|2505|0|0|0|1935|0|0|0|1697|0|0|0|1608|0|0|0|1486|0|0|0|1394|0|0|1421|0|0|0|1316|0|0|0|1220|0|0|0|1247|0|0|0|1113|0|0|0|1090|0|0|0|1078|0|0|0|902|0|0|0|811|0|0|0|699|0|0|0|703|0|0|0|685|0|0|776|0|0|0|1124|0|0|0|2063|0|0|0|2710|0|0|0|2838|0|0|0|2865|0|0|0|2700|0|0|0|2034|0|0|0|1270|0|0|0|1274|0|0|0|1308|0|0|0|1502|0|0|1498|0|0|0|1196|0|0|0|1126|0|0|0|959|0|0|0|959|0|0|0|815|0|0|0|767|0|0|0|823|0|0|0|788|0|0|0|860|0|0|0|870|0|0|0|892|0|0|823|0|0|0|785|0|0|0|726|0|0|0|1028|0|0|0|854|0|0|0|2528|0|0|0|5298331</HistCounts>
+      </HistItem>
+    </Histograms>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_386_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_382_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_378_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_078_370_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="208000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_078_374_2018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="208000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">140.98368017858</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">91.132835668744</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <ColorInterp>Blue</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.1275</HistMin>
+        <HistMax>255.1275</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>3194880|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|6|0|0|0|15|0|0|0|99|0|0|0|221|0|0|0|417|0|0|0|647|0|0|0|876|0|0|0|799|0|0|0|850|0|0|0|742|0|0|702|0|0|0|667|0|0|0|673|0|0|0|880|0|0|0|1035|0|0|0|1279|0|0|0|1714|0|0|0|2100|0|0|0|2360|0|0|0|2814|0|0|0|2964|0|0|0|3023|0|0|3714|0|0|0|4635|0|0|0|4995|0|0|0|4369|0|0|0|4030|0|0|0|4069|0|0|0|4380|0|0|0|4668|0|0|0|5015|0|0|0|5679|0|0|0|6029|0|0|0|6423|0|0|6971|0|0|0|7483|0|0|0|8009|0|0|0|8493|0|0|0|8727|0|0|0|9000|0|0|0|9391|0|0|0|9812|0|0|0|10509|0|0|0|11090|0|0|0|11316|0|0|0|11609|0|0|11841|0|0|0|12067|0|0|0|11932|0|0|0|12172|0|0|0|12879|0|0|0|13024|0|0|0|12818|0|0|0|13045|0|0|0|14353|0|0|0|18642|0|0|0|26731|0|0|0|30514|0|0|28641|0|0|0|24742|0|0|0|20822|0|0|0|18265|0|0|0|17597|0|0|0|17894|0|0|0|17974|0|0|0|19008|0|0|0|19302|0|0|0|20324|0|0|0|20817|0|0|0|22484|0|0|25265|0|0|0|27494|0|0|0|27616|0|0|0|27519|0|0|0|26813|0|0|0|25894|0|0|0|25935|0|0|0|26435|0|0|0|26813|0|0|0|28174|0|0|0|29502|0|0|0|30160|0|0|0|31513|0|0|33108|0|0|0|34700|0|0|0|37618|0|0|0|42377|0|0|0|47179|0|0|0|50518|0|0|0|53763|0|0|0|57003|0|0|0|62791|0|0|0|68351|0|0|0|71888|0|0|0|74384|0|0|76958|0|0|0|80372|0|0|0|85123|0|0|0|88245|0|0|0|90150|0|0|0|94028|0|0|0|102764|0|0|0|116213|0|0|0|130115|0|0|0|137662|0|0|0|139589|0|0|0|143924|0|0|152059|0|0|0|160101|0|0|0|165343|0|0|0|166521|0|0|0|169251|0|0|0|176202|0|0|0|184077|0|0|0|189319|0|0|0|188768|0|0|0|184185|0|0|0|178531|0|0|0|174974|0|0|169407|0|0|0|163332|0|0|0|153974|0|0|0|141751|0|0|0|131857|0|0|0|126649|0|0|0|122861|0|0|0|119135|0|0|0|114000|0|0|0|108158|0|0|0|103558|0|0|0|99444|0|0|94670|0|0|0|90602|0|0|0|86672|0|0|0|82026|0|0|0|79003|0|0|0|76458|0|0|0|75352|0|0|0|74036|0|0|0|71555|0|0|0|69899|0|0|0|67315|0|0|0|64680|0|0|61466|0|0|0|56842|0|0|0|52769|0|0|0|48292|0|0|0|46198|0|0|0|45209|0|0|0|44074|0|0|0|43564|0|0|0|43311|0|0|0|42377|0|0|0|40262|0|0|0|36204|0|0|33259|0|0|0|32297|0|0|0|30753|0|0|0|30147|0|0|0|29460|0|0|0|27706|0|0|0|25508|0|0|0|23996|0|0|0|23657|0|0|0|23989|0|0|0|24752|0|0|0|24612|0|0|0|22963|0|0|20294|0|0|0|17766|0|0|0|15519|0|0|0|13646|0|0|0|12163|0|0|0|10883|0|0|0|9856|0|0|0|8940|0|0|0|8539|0|0|0|8054|0|0|0|7686|0|0|0|7287|0|0|6835|0|0|0|6021|0|0|0|5403|0|0|0|4929|0|0|0|4759|0|0|0|4743|0|0|0|4487|0|0|0|4253|0|0|0|3947|0|0|0|3348|0|0|0|2993|0|0|0|2754|0|0|2398|0|0|0|2285|0|0|0|2028|0|0|0|1686|0|0|0|1558|0|0|0|1353|0|0|0|1281|0|0|0|1145|0|0|0|1076|0|0|0|996|0|0|0|936|0|0|0|911|0|0|917|0|0|0|913|0|0|0|888|0|0|0|786|0|0|0|792|0|0|0|750|0|0|0|696|0|0|0|760|0|0|0|633|0|0|0|577|0|0|0|498|0|0|0|493|0|0|421|0|0|0|384|0|0|0|382|0|0|0|440|0|0|0|721|0|0|0|1278|0|0|0|2067|0|0|0|2672|0|0|0|2650|0|0|0|2660|0|0|0|2229|0|0|0|1536|0|0|1110|0|0|0|1075|0|0|0|1225|0|0|0|1282|0|0|0|1241|0|0|0|1060|0|0|0|1036|0|0|0|960|0|0|0|876|0|0|0|767|0|0|0|909|0|0|0|1130|0|0|972|0|0|0|839|0|0|0|850|0|0|0|831|0|0|0|1337|0|0|0|3901|0|0|0|5298331</HistCounts>
+      </HistItem>
+    </Histograms>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_026_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_030_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="16000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_034_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="32000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_038_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="48000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_042_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="64000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_046_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="80000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_050_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="96000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_054_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="112000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_058_386_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="128000" yOff="0" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_062_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="144000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_066_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="160000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_070_382_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="176000" yOff="16000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_074_378_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="192000" yOff="32000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_078_370_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="208000" yOff="64000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">C:\edwin\scratch\rws_obia_2018_test\01_data\01_tegels_luchtfoto\25_078_374_2018.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="16000" RasterYSize="16000" DataType="Byte" BlockXSize="16000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="16000" ySize="16000" />
+      <DstRect xOff="208000" yOff="48000" xSize="16000" ySize="16000" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

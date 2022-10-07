@@ -1,0 +1,24 @@
+Driver: PCRaster/PCRaster Raster File
+Files: complete_raster/raster_2016_25cm/pcraster_maps/plaat_brightness_westerschelde_2016_mask_2018.map
+       complete_raster/raster_2016_25cm/pcraster_maps/plaat_brightness_westerschelde_2016_mask_2018.map.aux.xml
+Size is 224000, 80000
+Origin = (26000.000000000000000,390000.000000000000000)
+Pixel Size = (0.250000000000000,-0.250000000000000)
+Metadata:
+  PCRASTER_VALUESCALE=VS_SCALAR
+Corner Coordinates:
+Upper Left  (   26000.000,  390000.000) 
+Lower Left  (   26000.000,  370000.000) 
+Upper Right (   82000.000,  390000.000) 
+Lower Right (   82000.000,  370000.000) 
+Center      (   54000.000,  380000.000) 
+Band 1 Block=224000x1 Type=Float32, ColorInterp=Undefined
+  Min=20.000 Max=254.000 
+  Minimum=20.000, Maximum=254.000, Mean=132.585, StdDev=17.550
+  NoData Value=-3.4028234663852886e+38
+  Metadata:
+    STATISTICS_MAXIMUM=254
+    STATISTICS_MEAN=132.58548539831
+    STATISTICS_MINIMUM=20
+    STATISTICS_STDDEV=17.549731919867
+    STATISTICS_VALID_PERCENT=6.921

@@ -1,0 +1,63 @@
+<VRTDataset rasterXSize="224000" rasterYSize="80000">
+  <GeoTransform> 2.6000000000000000e+004, 2.5000000000000000e-001, 0.0000000000000000e+000, 3.9000000000000000e+005, 0.0000000000000000e+000,-2.5000000000000000e-001</GeoTransform>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <VRTRasterBand dataType="Byte" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">98.781898071429</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">110.83967518109</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Westerschelde_2016.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="224000" RasterYSize="80000" DataType="Byte" BlockXSize="224000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="224000" ySize="80000" />
+      <DstRect xOff="0" yOff="0" xSize="224000" ySize="80000" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">110.79090465714</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">106.46550653694</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Westerschelde_2016.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="224000" RasterYSize="80000" DataType="Byte" BlockXSize="224000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="224000" ySize="80000" />
+      <DstRect xOff="0" yOff="0" xSize="224000" ySize="80000" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">115.78446421429</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">106.70013358057</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Westerschelde_2016.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="224000" RasterYSize="80000" DataType="Byte" BlockXSize="224000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="224000" ySize="80000" />
+      <DstRect xOff="0" yOff="0" xSize="224000" ySize="80000" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
