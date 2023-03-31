@@ -1,5 +1,5 @@
 # obia
-This repo contains python scripts and eCognition rule sets used for the RWS OBIA project. 
+This repo contains python scripts and eCognition rule sets used for the RWS (Rijkwaterstaat) OBIA (Object Based Image Analysis) project. 
 
 The folder [rule_sets](rule_sets) contains the eCognition rule set file.   
 
